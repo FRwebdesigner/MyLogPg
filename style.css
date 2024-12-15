@@ -48,7 +48,7 @@ a {
 .nav_logo,
 .nav_link, 
 .button {
-    color: #fff
+    color: white;
 }
 
 .nav_link:hover {
@@ -57,7 +57,7 @@ a {
 
 .button {
     padding: 6px 24px;
-    border: 6px solid #fff;
+    border: 6px solid  white;
     background: transparent;
     border-radius: 6px;
     cursor: pointer;
