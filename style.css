@@ -32,6 +32,8 @@ a {
     height: 100%;
     align-items: center;
     justify-content: space-between;
+    font-size: 24px;
+    font-weight: 600;
 }
 
 .nav_logo {
