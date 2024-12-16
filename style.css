@@ -33,11 +33,11 @@ a {
     align-items: center;
     justify-content: space-between;
     font-size: 24px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .nav_logo {
-    font-size: 48px;
+    font-size: 32px;
     font-weight: 600;
 }
 
@@ -57,12 +57,12 @@ a {
 
 .button {
     padding: 6px 24px;
-    border: 6px solid  white;
+    border: 3px solid  white;
     background: transparent;
-    border-radius: 6px;
+    border-radius: 4px;
     cursor: pointer;
     font-size: 24px;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .button:active{
